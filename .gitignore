@@ -1,0 +1,8 @@
+.idea/
+._*
+_*
+__*
+discarded_files
+api_key.txt
+.DS_Store
+*.json
