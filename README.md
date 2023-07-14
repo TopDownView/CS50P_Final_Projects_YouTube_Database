@@ -53,3 +53,7 @@ Possible next steps for further improvement of the program:
 - Make an option for executing the program without API calls if JSON files already exist (so there's no need to comment out the code)
 - Include other video stats in the final output
 - Make a GUI
+
+## License
+
+[MIT License](LICENSE.md)
